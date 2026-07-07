@@ -8,6 +8,6 @@
 1. Linear Regression, Logistic Regression, Regularization and Hyperparameter tuning
 
 ## Please use the following Google Colab notebook versions during the tutorial/lab:
-- [linear-regression-demo](https://colab.research.google.com/github/uoft-ml-bootcamp/tutorials/blob/main/02-supervised-learning/regression-and-svm/student-ver/linear-regression-demo-student-ver.ipynb)
-- [logistic-regression-demo](https://colab.research.google.com/github/uoft-ml-bootcamp/tutorials/blob/main/02-supervised-learning/regression-and-svm/student-ver/logistic-regression-demo-student-ver.ipynb)
-- [regularization-and-hyperparametertuning-demo](https://colab.research.google.com/github/uoft-ml-bootcamp/tutorials/blob/main/02-supervised-learning/regression-and-svm/student-ver/regularization-and-hyperparameter-tuning-student-ver.ipynb)
+- [linear-regression-demo](https://colab.research.google.com/github/uoft-ml-bootcamp/tutorials/blob/main/02-supervised-learning/regression-and-svm/linear-regression-demo-student-ver.ipynb)
+- [logistic-regression-demo](https://colab.research.google.com/github/uoft-ml-bootcamp/tutorials/blob/main/02-supervised-learning/regression-and-svm/logistic-regression-demo-student-ver.ipynb)
+- [regularization-and-hyperparametertuning-demo](https://colab.research.google.com/github/uoft-ml-bootcamp/tutorials/blob/main/02-supervised-learning/regression-and-svm/regularization-and-hyperparameter-tuning-student-ver.ipynb)
