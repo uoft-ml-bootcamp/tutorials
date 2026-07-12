@@ -25,7 +25,7 @@ the lecture outline, lab activities, and any data files.
 - [CNN, Autoencoder, and RNN](04-deep-learning/cnn-autoencoder-rnn)
 - [Transformers and LLMs](04-deep-learning/transformers-and-llms)
 - [Large Language Models (LLMs)](04-deep-learning/large-language-models) — ChatGPT, DeepSeek
-- [Graph Neural Networks and NCO](04-deep-learning/gnn-and-nco) — GNNs, neural combinatorial optimization
+- [Graph Neural Networks and NCO](04-deep-learning/gnn) — GNNs, neural combinatorial optimization
 - [Agentic AI](04-deep-learning/agentic-ai)
 
 ### 5. Reinforcement Learning
